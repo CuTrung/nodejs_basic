@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuTrung/nodejs_basic.git"
+  },
+  "author": "WriteCodeSmoothly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CuTrung/nodejs_basic/issues"
+  },
+  "homepage": "https://github.com/CuTrung/nodejs_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
